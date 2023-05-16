@@ -1,0 +1,3 @@
+yogi 3 99.0
+yogi 3 99.0
+yoegsh 2 100.0
